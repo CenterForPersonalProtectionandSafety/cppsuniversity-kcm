@@ -53,7 +53,7 @@ Safe Passage Module
       <div class="modal-body">
         <div class="embed-responsive embed-responsive-16by9">
           <!-- <iframe class="embed-responsive-item" src="../assets/videos/SPL.mp4"></iframe> -->
-          <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/335628513" allowfullscreen></iframe>
+          <iframe id="sp-course" class="embed-responsive-item" src="https://player.vimeo.com/video/335628513" allowfullscreen></iframe>
         </div>
       </div>
     </div>
