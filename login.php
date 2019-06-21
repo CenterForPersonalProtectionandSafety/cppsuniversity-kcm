@@ -12,7 +12,7 @@
 
 <style>
 body {
-  background-image: url("/assets/images/texture1.png");
+  background-image: url("/assets/images/bible.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
