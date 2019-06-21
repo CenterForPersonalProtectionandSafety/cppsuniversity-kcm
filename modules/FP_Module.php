@@ -3,6 +3,14 @@
 Flashpoint De-escalation and Prevention Module
 */
 ?>
+
+<style>
+  .modal {
+    color: #fff;
+    background-color: #594A34;
+  }
+</style>
+
 <div class="card">
     <input type="checkbox" id="card2" class="more">
     <div class="content">

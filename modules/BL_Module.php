@@ -4,6 +4,13 @@ BL Module
 */
 ?>
 
+<style>
+  .modal {
+    color: #fff;
+    background-color: #594A34;
+  }
+</style>
+
 <div class="card">
     <input type="checkbox" id="card1" class="more" aria-hidden="true">
     <div class="content">

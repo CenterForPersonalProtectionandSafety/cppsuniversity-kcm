@@ -3,6 +3,14 @@
 Safe Passage Module
 */
 ?>
+
+<style>
+  .modal {
+    color: #fff;
+    background-color: #594A34;
+  }
+</style>
+
 <div class="card">
     <input type="checkbox" id="card3" class="more">
     <div class="content">
