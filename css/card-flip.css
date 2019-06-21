@@ -71,9 +71,7 @@
     border-radius: 6px;
     backface-visibility: hidden;
     opacity: 0.5;
-    background-color: #21618C;
-    /* background-color: #8A0E0D; */
-    /* background: linear-gradient(40deg, rgba(67, 138, 243, 0.7), rgba(255, 242, 166, 0.7)); */
+    background-color: #7a6952;
 }
 
 .front .inner {
@@ -105,7 +103,7 @@
 
 .back {
     transform: rotateY(180deg);
-    background-color: #0B2449;
+    background-color: #5a4c3a;
     border: 2px solid #f0f0f0;
 }
 
