@@ -5,7 +5,7 @@ When Lightning Strikes Module
 ?>
 
 <style>
-  .modal {
+  .modal-content {
     color: #fff;
     background-color: #594A34;
   }
