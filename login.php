@@ -56,7 +56,7 @@ session_start(); /* Starts the session */
 /* Check Login form submitted */
 if(isset($_POST['Submit'])){
 /* Define username and associated password array */
-$logins = array('' => '');
+$logins = array('KCMUser' => 'kcmtraining');
 
 /* Check and assign submitted Username and Password to new variable */
 $Username = isset($_POST['Username']) ? $_POST['Username'] : '';
