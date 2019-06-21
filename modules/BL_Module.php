@@ -8,7 +8,7 @@ BL Module
     <div class="content">
         <div class="front" style="background-image: url('../assets/images/bl.jpg')">
             <div class="inner">
-                <h2>Beyond Lockdown</h2>
+                <h3>Beyond Lockdown</h3>
                 <label for="card1" class="button" aria-hidden="true">
                     Details
                 </label>
@@ -17,7 +17,7 @@ BL Module
         <div class="back">
             <div class="inner">
                 <div class="description">
-                  <h4>Beyond Lockdown</h4>
+                  <h5><b>Beyond Lockdown</b></h5>
                   <p>CPPS has produced a new 15-minute video program, “Beyond Lockdown – Preventing and Responding to Extreme School Violence” This 15-minute program pulls from guidance from the FBI, Secret Service and Department of Education to educate students, parents, teachers and staff how to recognize warning signs that a student may be progressing towards violence, and how to respond effectively if violence does erupt.</p>
                 </div>
                 <label for="card1" class="button return" aria-hidden="true">

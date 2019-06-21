@@ -8,7 +8,7 @@ Safe Passage Module
     <div class="content">
       <div class="front" style="background-image: url('../assets/images/sp.png')">
             <div class="inner">
-                <h2>Safe Passage</h2>
+                <h3>Safe Passage</h3>
                 <label for="card3" class="button" aria-hidden="true">
                     Details
                 </label>
@@ -17,7 +17,7 @@ Safe Passage Module
         <div class="back">
             <div class="inner">
                 <div class="description">
-                  <h3><b>Safe Passage</b></h3>
+                  <h5><b>Safe Passage</b></h5>
                   <p>Reduce your exposure and those your protect; guide your people through the key stages of travel and provide them with critical strategies, techniques and procedures aimed at minimizing travel risks including how to survive a hostage situation.</p>
                 </div>
                 <label for="card3" class="button return" aria-hidden="true">

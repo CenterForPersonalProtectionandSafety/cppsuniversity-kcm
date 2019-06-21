@@ -163,7 +163,7 @@
 .back .description {
     grid-row: 5;
     grid-column: 1/-1;
-    font-size: 1.25em;
+    font-size: 1.0em;
     border-radius: 5px;
     font-weight: 600;
     line-height: 1.4em;

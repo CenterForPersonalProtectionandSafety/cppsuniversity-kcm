@@ -8,7 +8,7 @@ Flashpoint De-escalation and Prevention Module
     <div class="content">
       <div class="front" style="background-image: url('../assets/images/fpdp.png')">
             <div class="inner">
-                <h2>Flashpoint De-escalation and Prevention</h2>
+                <h3>Flashpoint De-escalation and Prevention</h3>
                 <label for="card2" class="button" aria-hidden="true">
                     Details
                 </label>
@@ -17,7 +17,7 @@ Flashpoint De-escalation and Prevention Module
         <div class="back">
             <div class="inner">
                 <div class="description">
-                  <h3><b>Flashpoint De-escalation and Prevention</b></h3>
+                  <h5><b>Flashpoint De-escalation and Prevention</b></h5>
                   <p>Research shows that over 2 million people are affected each year by violent victimizations in the workplace at a cost of over 100 billion dollars to U.S. corporations annually.  Violence, however, is almost always evolutionary with warning signs along the way.  In this 12-minute video, viewers are equipped to:</p>
                     <ul>
                       <li>Understand what Workplace Violence is</li>
