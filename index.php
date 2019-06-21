@@ -22,9 +22,15 @@ exit;
 </head>
 
 <body>
-  <?php include 'header/navigation_login.php'; ?>
-  <?php include 'header/header.php'; ?>
+  <?php include 'modules/navigation_login.php'; ?>
 
+  <div class="container-fluid">
+      <div class="text-center">
+          <p class="welcomeTitle">WELCOME</p>
+          <img src="/assets/images/KCMLogo.png" alt="..." style="" class="KCMLogo">
+      </div>
+  </div>
+  <br>
   <div class="container-fluid descriptionBanner">
       <div class="text-center">
           <p class="descriptionContent">CPPS is the leading developer and provider of scalable training and consulting solutions in the U.S. for Workplace Violence Prevention, Active Shooter Response, and International Travel Safety. CPPS has worked together with thousands of organizations–large and small–to include over 50% of Fortune 100 corporations, over 1600 colleges and universities; 2000 hospitals and many of the largest non-profit/charitable organizations in the U.S.</p>
@@ -34,13 +40,13 @@ exit;
   <div class="wrapper">
     <?php
       //Include the When Lightning Strikes Module
-      include 'courseCards/WLS_Module.php';
+      include 'modules/WLS_Module.php';
       //Include the FPDP Module
-      include 'courseCards/FP_Module.php';
+      include 'modules/FP_Module.php';
       //Include the Safe Passage Module
-      include 'courseCards/SafePassage_Module.php';
+      include 'modules/SP_Module.php';
       //Include the Beyond Lockdown Module
-      include 'courseCards/BL_Module.php';
+      include 'modules/BL_Module.php';
     ?>
   </div>
   <!-- Optional JavaScript -->
