@@ -26,7 +26,7 @@ Safe Passage Module
             <div class="inner">
                 <div class="description">
                   <h5><b>Safe Passage</b></h5>
-                  <p>Reduce your exposure and those your protect; guide your people through the key stages of travel and provide them with critical strategies, techniques and procedures aimed at minimizing travel risks including how to survive a hostage situation.</p>
+                  <p>Reduce your exposure and those your protect; guide your people through the key stages of travel and provide them with critical strategies, techniques and procedures aimed at minimizing travel risks.</p>
                 </div>
                 <label for="card3" class="button return" aria-hidden="true">
                     <i class="fa fa-arrow-left"></i>
