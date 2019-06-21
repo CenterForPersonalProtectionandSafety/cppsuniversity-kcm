@@ -3,6 +3,7 @@
 BL Module
 */
 ?>
+
 <div class="card">
     <input type="checkbox" id="card1" class="more" aria-hidden="true">
     <div class="content">
@@ -23,10 +24,30 @@ BL Module
                 <label for="card1" class="button return" aria-hidden="true">
                     <i class="fa fa-arrow-left"></i>
                 </label>
-                <a href="../assets/videos/BL.mp4" class="button return button-play" aria-hidden="true">
+                <a href="#" data-toggle="modal" data-target="#BLModal" class="button return button-play" aria-hidden="true">
                   <i class="fa fa-play"></i>
                 </a>
             </div>
         </div>
     </div>
+</div>
+
+
+<!-- Modal -->
+<div class="modal fade" id="BLModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="BLModal">Beyond Lockdown</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="../assets/videos/BL.mp4"></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>

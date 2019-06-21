@@ -23,10 +23,29 @@ When Lightning Strikes Module
               <label for="card4" class="button return" aria-hidden="true">
                   <i class="fa fa-arrow-left"></i>
               </label>
-              <a href="../assets/videos/WLS.mp4" class="button return button-play" aria-hidden="true">
+              <a href="#" data-toggle="modal" data-target="#SPLModal" class="button return button-play" aria-hidden="true">
                 <i class="fa fa-play"></i>
               </a>
           </div>
         </div>
     </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="WLSModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="WLSModal">Safe Passage</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="../assets/videos/WLS.mp4"></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
