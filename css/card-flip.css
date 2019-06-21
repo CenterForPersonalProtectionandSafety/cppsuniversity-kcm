@@ -81,7 +81,7 @@
     justify-items: center;
 }
 
-.front h2 {
+.front h2, .front h3 {
     grid-row: 2;
     margin-bottom: 0.3em;
     text-transform: uppercase;
