@@ -21,6 +21,7 @@ exit;
   <link href="https://fonts.googleapis.com/css?family=Cinzel&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/nav.css">
   <link rel="stylesheet" href="css/hero.css">
   <link rel="stylesheet" href="css/card-flip.css">
 </head>
@@ -44,10 +45,11 @@ exit;
       </div>
   </section>
 
-  <section id="aboutus">
+  <section id="aboutus" class="abus">
     <header class="text-center py-5 mb-4">
       <div class="container">
         <h1 class=" text-white">Who We Are?</h1>
+        <div class="divider-1 wow fadeInUp"><span></span></div>
         <p class="descriptionContent">CPPS is the leading developer and provider of scalable training and consulting solutions in the U.S. for Workplace Violence Prevention, Active Shooter Response, and International Travel Safety. CPPS has worked together with thousands of organizations large and small.</p>
       </div>
     </header>
@@ -89,8 +91,9 @@ exit;
 
     <section id="courseCards" class="courses">
       <header>
-        <div class="container text-center">
+        <div class="container text-center ">
           <h1 class="font-weight-light text-white">Courses Offered</h1>
+          <div class="divider-1 "><span></span></div>
         </div>
       </header>
         <br>
@@ -116,6 +119,8 @@ exit;
     <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="js/waypoints.min.js"></script>
+    <script src="js/wow.min.js"></script>
     <script src="js/main.js"type="text/javascript"></script>
 </body>
 </html>

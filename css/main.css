@@ -265,3 +265,11 @@ section {
 h2 {
   color: #fff;
 }
+
+/***** Divider *****/
+
+.divider-1 span {
+	display: inline-block;
+	width: 200px;
+	border-bottom: 1px dashed #ccc;
+}
