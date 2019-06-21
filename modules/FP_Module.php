@@ -58,7 +58,8 @@ Flashpoint De-escalation and Prevention Module
       </div>
       <div class="modal-body">
         <div class="embed-responsive embed-responsive-16by9">
-          <iframe class="embed-responsive-item" src="../assets/videos/FPDP.mp4"></iframe>
+          <!-- <iframe class="embed-responsive-item" src="../assets/videos/FPDP.mp4"></iframe> -->
+          <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/237417322" allowfullscreen></iframe>
         </div>
       </div>
     </div>

@@ -31,7 +31,7 @@ When Lightning Strikes Module
               <label for="card4" class="button return" aria-hidden="true">
                   <i class="fa fa-arrow-left"></i>
               </label>
-              <a href="#" data-toggle="modal" data-target="#SPLModal" class="button return button-play" aria-hidden="true">
+              <a href="#" data-toggle="modal" data-target="#WLSModal" class="button return button-play" aria-hidden="true">
                 <i class="fa fa-play"></i>
               </a>
           </div>
@@ -44,14 +44,15 @@ When Lightning Strikes Module
   <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="WLSModal">Safe Passage</h5>
+        <h5 class="modal-title" id="WLSModal">When Lightning Strikes</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
       <div class="modal-body">
         <div class="embed-responsive embed-responsive-16by9">
-          <iframe class="embed-responsive-item" src="../assets/videos/WLS.mp4"></iframe>
+          <!-- <iframe class="embed-responsive-item" src="../assets/videos/WLS.mp4"></iframe> -->
+          <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/325018400" allowfullscreen></iframe>
         </div>
       </div>
     </div>

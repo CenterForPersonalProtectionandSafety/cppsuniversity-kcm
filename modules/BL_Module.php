@@ -52,7 +52,8 @@ BL Module
       </div>
       <div class="modal-body">
         <div class="embed-responsive embed-responsive-16by9">
-          <iframe class="embed-responsive-item" src="../assets/videos/BL.mp4"></iframe>
+          <!-- <iframe class="embed-responsive-item" src="../assets/videos/BL.mp4"></iframe> -->
+          <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/295192656" allowfullscreen></iframe>
         </div>
       </div>
     </div>
