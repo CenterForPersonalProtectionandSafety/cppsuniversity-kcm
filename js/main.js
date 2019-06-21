@@ -8,7 +8,7 @@ $("#link_about").click(function() {
 });
 
 $("#link_course").click(function() {
-   scrollToAnchor('aboutus');
+   scrollToAnchor('courseCards');
 });
 
 

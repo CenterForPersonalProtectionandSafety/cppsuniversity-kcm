@@ -5,10 +5,10 @@ Flashpoint De-escalation and Prevention Module
 ?>
 
 <style>
-.modal-header, .modal-footer {
-  color: #fff;
-  background-color: #594A34;
-}
+  .modal-content {
+    color: #fff;
+    background-color: #594A34;
+  }
 </style>
 
 <div class="card">

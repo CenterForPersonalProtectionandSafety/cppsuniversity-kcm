@@ -5,7 +5,7 @@ BL Module
 ?>
 
 <style>
-  .modal-header, .modal-footer {
+  .modal-content {
     color: #fff;
     background-color: #594A34;
   }

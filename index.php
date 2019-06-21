@@ -30,6 +30,7 @@ exit;
 
 <!-- <img src="/assets/images/KCMLogo.png" alt="..." style="" class="KCMLogo"> -->
 
+<section>
   <section class="hero">
       <div class="hero-inner">
           <h4>Welcome</h4>
@@ -46,52 +47,55 @@ exit;
   <section id="aboutus">
     <header class="text-center py-5 mb-4">
       <div class="container">
-        <h1 class="font-weight-light text-white">Who We Are? & Courses Offered</h1>
+        <h1 class=" text-white">Who We Are?</h1>
         <p class="descriptionContent">CPPS is the leading developer and provider of scalable training and consulting solutions in the U.S. for Workplace Violence Prevention, Active Shooter Response, and International Travel Safety. CPPS has worked together with thousands of organizations large and small.</p>
       </div>
     </header>
-
-
-    <section id="services">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="300ms">
-                    <div class="">
-                        <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="300ms">
-                            <i class="fa fa-building fa-3x" style="color:#fff;"></i>
-                            <br>
-                            <br>
-                        </div>
-                        <h3>50% of Fortune 100 corporations</h3>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="300ms">
+                <div class="">
+                    <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="300ms">
+                        <i class="fa fa-building fa-5x" style="color:#fff;"></i>
+                        <br>
+                        <br>
                     </div>
+                    <h2>50% of Fortune 100 corporations</h2>
                 </div>
-                <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
-                    <div class="">
-                        <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="600ms">
-                            <i class="fa fa-graduation-cap fa-3x" style="color:#fff;"></i>
-                            <br>
-                            <br>
-                        </div>
-                        <h3>1600 colleges and universities</h3>
+            </div>
+            <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
+                <div class="">
+                    <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="600ms">
+                        <i class="fa fa-graduation-cap fa-5x" style="color:#fff;"></i>
+                        <br>
+                        <br>
                     </div>
+                    <h2>1600 colleges and universities</h2>
                 </div>
-                <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
-                    <div class="">
-                        <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
-                            <i class="fa fa-stethoscope fa-3x" style="color:#fff;"></i>
-                            <br>
-                            <br>
-                        </div>
-                        <h3>2000 hospitals & many non-profit organizations</h3>
+            </div>
+            <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">
+                <div class="">
+                    <div class="wow scaleIn" data-wow-duration="500ms" data-wow-delay="900ms">
+                        <i class="fa fa-stethoscope fa-5x" style="color:#fff;"></i>
+                        <br>
+                        <br>
                     </div>
+                    <h2>2000 hospitals & many non-profit organizations</h2>
                 </div>
             </div>
         </div>
+    </div>
     </section>
-    <br>
-    <br>
 
-    <section>
+    <section id="courseCards" class="courses">
+      <header>
+        <div class="container text-center">
+          <h1 class="font-weight-light text-white">Courses Offered</h1>
+        </div>
+      </header>
+        <br>
+        <br>
+        <br>
       <div class="wrapper">
           <?php
             //Include the When Lightning Strikes Module
@@ -105,11 +109,8 @@ exit;
           ?>
       </div>
     </section>
+</section>
 
-    </div>
-    <br>
-    <br>
-  </section>
   <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
