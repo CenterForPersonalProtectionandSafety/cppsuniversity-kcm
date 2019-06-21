@@ -27,7 +27,7 @@ body {
         <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:600px">
 
           <div class="w3-center"><br>
-            <img src="/assets/images/cppslogo.png" alt="Avatar" style="width:30%" class=" w3-margin-top">
+            <img src="/assets/images/cppslogo.png" alt="Avatar" style="width:50%" class=" w3-margin-top">
           </div>
 
           <form class="w3-container" action="" method="post" name="Login_Form">
@@ -43,11 +43,9 @@ body {
               <input class="w3-button w3-block w3-dark-grey w3-section w3-padding" value="Login" name="Submit" type="submit">
             </div>
           </form>
-
         </div>
       </div>
     </div>
-
 </body>
 <!-- ++++++++++++++++++++++++++++++++++++ PHP STUFF HERE ++++++++++++++++++++++++++++++++++++ -->
 

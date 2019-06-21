@@ -103,7 +103,7 @@
 
 .back {
     transform: rotateY(180deg);
-    background-color: #5a4c3a;
+    background-color: #7a6952;
     border: 2px solid #f0f0f0;
 }
 
@@ -118,7 +118,7 @@
     position: relative;
     display: flex;
     align-items: center;
-    color: #355cc9;
+    color: #7a6952;
     grid-row: 3;
 }
 
@@ -141,7 +141,7 @@
 }
 
 .back .info i:before {
-    background: linear-gradient(40deg, #355cc9, #438af3);
+    background: linear-gradient(40deg, #7a6952, #594A34);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
 }
@@ -174,7 +174,7 @@
 .back .location,
 .back .price {
     font-weight: 600;
-    color: #355cc9;
+    color: #594A34;
     grid-row: 1;
     font-size: 0.86em;
 }
@@ -225,7 +225,7 @@
     background-color: #fff;
     box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
     text-shadow: none;
-    color: #355cc9;
+    color: #7a6952;
 }
 
 .button.return {
@@ -237,7 +237,7 @@
 
 .button.return:hover {
     background-color: #fff;
-    color: #355cc9;
+    color: #7a6952;
     box-shadow: none;
 }
 
@@ -246,13 +246,13 @@
 }
 
 ::-webkit-scrollbar-track {
-    background: #f1f1f1;
+    background: #fff;
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #859ddf;
+    background: #fff;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #355cc9;
+    background: #594A34;
 }

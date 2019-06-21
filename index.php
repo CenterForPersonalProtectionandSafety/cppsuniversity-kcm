@@ -27,18 +27,18 @@ exit;
 <body>
   <?php include 'navigation_login.php'; ?>
 
+<!-- <img src="/assets/images/KCMLogo.png" alt="..." style="" class="KCMLogo"> -->
 
   <section class="hero">
       <div class="hero-inner">
           <h4>Welcome</h4>
           <h1>Kenneth Copeland Ministries</h1>
-          <br>
-          <img src="/assets/images/KCMLogo.png" alt="..." style="" class="KCMLogo">
+          <h3>To the CPPS University</h3>
           <br>
           <br>
           <br>
           <a href="#" id="link_about" class="btn">About Us</a>
-          <a href="#" id="link_course" class="btn">Course</a>
+          <a href="#" id="link_course" class="btn">Courses</a>
       </div>
   </section>
 
