@@ -12,7 +12,7 @@
 
 <style>
 body {
-  background-image: url("/assets/images/blue_bkg.jpg");
+  background-image: url("/assets/images/texture1.png");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
