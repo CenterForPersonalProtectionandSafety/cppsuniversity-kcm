@@ -3,6 +3,10 @@ body {
     background-color: white;
 }
 
+.bg-company-tan {
+    background-color: #594A34 !important;
+}
+
 .moduleButton {
     font-family: Arial;
     color: #ffffff;

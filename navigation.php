@@ -1,6 +1,6 @@
 
 
-<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark bg-company-tan">
   <a class="navbar-brand" href="index.php"><img class="img-responsive" src="../assets/images/cpps_university_logo.png" alt="" /></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
     <span class="navbar-toggler-icon"></span>

@@ -25,7 +25,7 @@ exit;
 </head>
 
 <body>
-  <?php include 'navigation_login.php'; ?>
+  <?php include 'navigation.php'; ?>
 
 <!-- <img src="/assets/images/KCMLogo.png" alt="..." style="" class="KCMLogo"> -->
 
