@@ -5,7 +5,7 @@ When Lightning Strikes Module
 ?>
 
 <style>
-  .modal-content {
+  .modal-header, .modal-footer {
     color: #fff;
     background-color: #594A34;
   }
@@ -46,14 +46,15 @@ When Lightning Strikes Module
       <div class="modal-header">
         <h5 class="modal-title" id="WLSModal">When Lightning Strikes</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
+          <span aria-hidden="true" style='color:white;'>&times;</span>
         </button>
       </div>
       <div class="modal-body">
         <div class="embed-responsive embed-responsive-16by9">
-          <!-- <iframe class="embed-responsive-item" src="../assets/videos/WLS.mp4"></iframe> -->
           <iframe id="wls-course" class="embed-responsive-item" src="https://player.vimeo.com/video/325018400" allowfullscreen></iframe>
         </div>
+      </div>
+      <div class="modal-footer">
       </div>
     </div>
   </div>

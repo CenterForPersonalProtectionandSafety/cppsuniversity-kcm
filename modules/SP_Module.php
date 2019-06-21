@@ -5,7 +5,7 @@ Safe Passage Module
 ?>
 
 <style>
-  .modal-content {
+  .modal-header, .modal-footer {
     color: #fff;
     background-color: #594A34;
   }
@@ -47,14 +47,15 @@ Safe Passage Module
       <div class="modal-header">
         <h5 class="modal-title" id="SPLModal">Safe Passage</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
+          <span aria-hidden="true" style='color:white;'>&times;</span>
         </button>
       </div>
       <div class="modal-body">
         <div class="embed-responsive embed-responsive-16by9">
-          <!-- <iframe class="embed-responsive-item" src="../assets/videos/SPL.mp4"></iframe> -->
           <iframe id="sp-course" class="embed-responsive-item" src="https://player.vimeo.com/video/335628513" allowfullscreen></iframe>
         </div>
+      </div>
+      <div class="modal-footer">
       </div>
     </div>
   </div>

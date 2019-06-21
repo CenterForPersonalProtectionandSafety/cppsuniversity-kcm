@@ -5,10 +5,10 @@ Flashpoint De-escalation and Prevention Module
 ?>
 
 <style>
-  .modal-content {
-    color: #fff;
-    background-color: #594A34;
-  }
+.modal-header, .modal-footer {
+  color: #fff;
+  background-color: #594A34;
+}
 </style>
 
 <div class="card">
@@ -53,14 +53,15 @@ Flashpoint De-escalation and Prevention Module
       <div class="modal-header">
         <h5 class="modal-title" id="FPDPModal">Flashpoint DP</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
+          <span aria-hidden="true" style='color:white;'>&times;</span>
         </button>
       </div>
       <div class="modal-body">
         <div class="embed-responsive embed-responsive-16by9">
-          <!-- <iframe class="embed-responsive-item" src="../assets/videos/FPDP.mp4"></iframe> -->
           <iframe id="fpdp-course" class="embed-responsive-item" src="https://player.vimeo.com/video/237417322" allowfullscreen></iframe>
         </div>
+      </div>
+      <div class="modal-footer">
       </div>
     </div>
   </div>
