@@ -7,8 +7,20 @@ $("#link_about").click(function() {
    scrollToAnchor('aboutus');
 });
 
+$("#nav_aboutus").click(function() {
+   scrollToAnchor('aboutus');
+});
+
 $("#link_course").click(function() {
    scrollToAnchor('courseCards');
+});
+
+$("#nav_courses").click(function() {
+   scrollToAnchor('courseCards');
+});
+
+$("#nav_img").click(function() {
+   scrollToAnchor('topnav');
 });
 
 
