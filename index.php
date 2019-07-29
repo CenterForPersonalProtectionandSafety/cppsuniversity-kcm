@@ -109,6 +109,8 @@ exit;
             include 'modules/SP_Module.php';
             //Include the Beyond Lockdown Module
             include 'modules/BL_Module.php';
+            //Include the Situational Awareness Module
+            include 'modules/SA_Module.php';
           ?>
       </div>
     </section>
