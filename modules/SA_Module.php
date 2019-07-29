@@ -51,7 +51,7 @@ BL Module
       </div>
       <div class="modal-body">
         <div class="embed-responsive embed-responsive-16by9">
-          <iframe id="sa-course" class="embed-responsive-item" src="https://vimeo.com/video/348479754/" allowfullscreen></iframe>
+          <iframe id="sa-course" class="embed-responsive-item" src="https://player.vimeo.com/video/348479754" allowfullscreen></iframe>
         </div>
       </div>
       <div class="modal-footer">
