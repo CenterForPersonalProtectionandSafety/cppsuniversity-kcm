@@ -1,7 +1,7 @@
 
 <section id="topnav">
 <nav class="navbar navbar-dark fixed-top navbar-expand-md navbar-no-bg">
-  <a class="navbar-brand" id="nav_img" href="#"><img class="img-responsive" src="../assets/images/cpps_university_logo.png" alt="" /></a>
+  <a class="navbar-brand" id="nav_img" href="#"><img class="img-responsive" src="#" alt="" /></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
     <span class="navbar-toggler-icon"></span>
   </button>
